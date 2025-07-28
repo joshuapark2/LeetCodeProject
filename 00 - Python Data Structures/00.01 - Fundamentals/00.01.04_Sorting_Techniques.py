@@ -1,0 +1,2 @@
+print(sorted([5, 2, 3, 1, 4]))
+print(sorted({1: 'D', 2: 'B', 3: 'B', 4: 'E', 5: 'A'}))
